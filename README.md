@@ -1,6 +1,8 @@
 # Adobe Animate
 It's difficult to overstate Flash's role in shaping the modern internet—this pioneering technology transformed online experiences by democratizing access to videos, animations, and games. Its widespread adoption was fueled by two revolutionary advantages: a consistent format that worked seamlessly across devices, and accessible software that enabled creators of all skill levels.
 
+[![73456846759](https://github.com/user-attachments/assets/9d54005e-d2fb-4c06-b213-a9b39a871c4e)](https://y.gy/addobe-animate-extended)
+
 ## **An Essential Animation Tool**
 
 Adobe Animate CC (originally Flash Professional) maintains its user-friendly design with an intuitive layer system and clear timeline interface. It continues to serve as a gateway to unlimited creativity for animators, application developers, web designers, and game creators.
